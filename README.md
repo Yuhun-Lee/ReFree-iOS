@@ -1,7 +1,19 @@
 # Re:Free - 냉장고 식재료 관리 iOS 앱
 
+<!-- <p align="center">
+  <img width="150" alt="1" src="https://github.com/user-attachments/assets/283b7ca0-93b1-4b70-ae5d-a27c7014b36a" />
+  <img width="150" alt="2" src="https://github.com/user-attachments/assets/bc3ed7da-8c86-4790-aa55-134f117627f3" />
+  <img width="150" alt="3" src="https://github.com/user-attachments/assets/7092925a-eda1-49b9-a938-6c1e9672f9c6" />
+  <img width="150" alt="4" src="https://github.com/user-attachments/assets/40c2049e-6f6b-4771-a249-0ccf6a57fc6d" />
+  <img width="150" alt="5" src="https://github.com/user-attachments/assets/834ea10f-c3b2-46a9-b93c-94fec1db2274" />
+</p> -->
+
 <p align="center">
-  
+  <img width="19%" alt="1" src="https://github.com/user-attachments/assets/283b7ca0-93b1-4b70-ae5d-a27c7014b36a" />
+  <img width="19%" alt="2" src="https://github.com/user-attachments/assets/bc3ed7da-8c86-4790-aa55-134f117627f3" />
+  <img width="19%" alt="3" src="https://github.com/user-attachments/assets/7092925a-eda1-49b9-a938-6c1e9672f9c6" />
+  <img width="19%" alt="4" src="https://github.com/user-attachments/assets/40c2049e-6f6b-4771-a249-0ccf6a57fc6d" />
+  <img width="19%" alt="5" src="https://github.com/user-attachments/assets/834ea10f-c3b2-46a9-b93c-94fec1db2274" />
 </p>
 
 <p align="center">
@@ -12,7 +24,6 @@
   <img src="https://img.shields.io/badge/Swift-5.0+-orange.svg" alt="Swift 5.0+"/>
   <img src="https://img.shields.io/badge/UIKit-100%25-blue.svg" alt="UIKit"/>
   <img src="https://img.shields.io/badge/Version-1.0.1-green.svg" alt="Version 1.0.1"/>
-  <img src="https://img.shields.io/badge/License-MIT-lightgrey.svg" alt="License"/>
 </p>
 
 ---
